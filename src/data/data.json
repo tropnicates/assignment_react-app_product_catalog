@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 99.99,
+        "image": "https://m.media-amazon.com/images/I/31QB73-5IEL._SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+        "id": 2,
+        "name": "Smart Watch",
+        "category": "Electronics",
+        "price": 199.99,
+        "image": "https://www.gonoise.com/cdn/shop/products/Icon2-2.png?v=1681610912",
+        "description": "Stay connected on the go with this stylish smartwatch."
+    },
+    {
+        "id": 3,
+        "name": "Gaming Laptop",
+        "category": "Computers",
+        "price": 1299.99,
+        "image": "https://m.media-amazon.com/images/I/41p4Uykh65L._SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "A powerful gaming laptop with a high refresh rate display and advanced cooling system."
+    },
+    {
+        "id": 4,
+        "name": "Electric Scooter",
+        "category": "Transportation",
+        "price": 499.99,
+        "image": "https://m.media-amazon.com/images/I/31yzkpfOODL._SY300_SX300_QL70_FMwebp_.jpg",
+        "description": "Eco-friendly electric scooter with a range of up to 20 miles."
+    },
+    {
+        "id": 5,
+        "name": "Digital Camera",
+        "category": "Photography",
+        "price": 549.99,
+        "image": "https://m.media-amazon.com/images/I/413GNwz1kXL._SY300_SX300_QL70_FMwebp_.jpg",
+        "description": "Capture stunning photos and videos with this 24MP digital camera."
+    },
+    {
+        "id": 6,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 699.99,
+        "image": "https://m.media-amazon.com/images/I/413eZrKrgnL._SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "A sleek smartphone with a 6.5-inch AMOLED display and 5G connectivity."
+    },
+    {
+        "id": 7,
+        "name": "Bluetooth Speaker",
+        "category": "Audio",
+        "price": 59.99,
+        "image": "https://images.snapmint.com/product_assets/images/000/884/389/large/open-uri20230530-3823-rjtij?1685445470",
+        "description": "Portable Bluetooth speaker with deep bass and long battery life."
+    },
+    {
+        "id": 8,
+        "name": "Action Camera",
+        "category": "Photography",
+        "price": 299.99,
+        "image": "https://m.media-amazon.com/images/I/31KEUExPV4L._SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "Compact action camera for recording your adventures in 4K."
+    },
+    {
+        "id": 9,
+        "name": "4K TV",
+        "category": "Home Entertainment",
+        "price": 899.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IXJ3-H3rUx5_EaXYfJCFime9qno8XLbA5w&s",
+        "description": "Experience movies and shows in stunning 4K resolution on this 55-inch TV."
+    },
+    {
+        "id": 10,
+        "name": "Mechanical Keyboard",
+        "category": "Computers",
+        "price": 129.99,
+        "image": "https://m.media-amazon.com/images/I/413jhBpOwUL._SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "Tactile mechanical keyboard with customizable RGB lighting."
+    },
+    {
+        "id": 11,
+        "name": "Robot Vacuum",
+        "category": "Home Appliances",
+        "price": 249.99,
+        "image": "https://m.media-amazon.com/images/I/31qspoRT1ZL._SX300_SY300_QL70_FMwebp_.jpg",
+        "description": "Smart robot vacuum that cleans your home effortlessly."
+    },
+    {
+        "id": 12,
+        "name": "Fitness Tracker",
+        "category": "Health",
+        "price": 79.99,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/se-case-unselect-gallery-1-202409_GEO_IN?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1724735269437",
+        "description": "Track your daily activities and monitor your health with ease."
+    },
+    {
+        "id": 13,
+        "name": "Electric Kettle",
+        "category": "Kitchen",
+        "price": 39.99,
+        "image": "https://m.media-amazon.com/images/I/31S74o1sCSS._SY300_SX300_QL70_FMwebp_.jpg",
+        "description": "Quickly boil water with this efficient electric kettle."
+    },
+    {
+        "id": 14,
+        "name": "Air Purifier",
+        "category": "Home Appliances",
+        "price": 199.99,
+        "image": "https://cdn.fcglcdn.com/brainbees/images/products/583x720/19032614a.webp",
+        "description": "Breathe cleaner air with this compact air purifier."
+    },
+    {
+        "id": 15,
+        "name": "Noise-Canceling Earbuds",
+        "category": "Audio",
+        "price": 149.99,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-4-anc-select-202409_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=1725502554118",
+        "description": "Compact noise-canceling earbuds for immersive audio on the go."
+    },
+    {
+        "id": 16,
+        "name": "Standing Desk",
+        "category": "Furniture",
+        "price": 399.99,
+        "image": "https://m.media-amazon.com/images/I/91CRdhwg60L._SX679_.jpg",
+        "description": "Adjustable standing desk for a healthier work environment."
+    },
+    {
+        "id": 17,
+        "name": "Smart Thermostat",
+        "category": "Home Automation",
+        "price": 249.99,
+        "image": "https://m.media-amazon.com/images/I/41UKdU2tV+L._SY300_SX300_.jpg",
+        "description": "Control your home's temperature remotely with this smart thermostat."
+    },
+    {
+        "id": 18,
+        "name": "Wireless Charger",
+        "category": "Accessories",
+        "price": 29.99,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MX6X3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1724257154789",
+        "description": "Convenient wireless charger compatible with most devices."
+    },
+    {
+        "id": 19,
+        "name": "Gaming Chair",
+        "category": "Furniture",
+        "price": 199.99,
+        "image": "https://m.media-amazon.com/images/I/81cs+VLE-OL._SX679_.jpg",
+        "description": "Comfortable gaming chair with lumbar support and adjustable height."
+    },
+    {
+        "id": 20,
+        "name": "Outdoor Grill",
+        "category": "Outdoor",
+        "price": 399.99,
+        "image": "https://m.media-amazon.com/images/I/51423htqBGL._SY300_SX300_QL70_FMwebp_.jpg",
+        "description": "High-quality outdoor grill for your barbecue parties."
+    }
+]
