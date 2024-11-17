@@ -448,7 +448,7 @@ a {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.625rem;
-    order: 2; /* Ensure category filter is below the categories */
+    order: 2; 
   }
 
   .categories {
@@ -456,7 +456,7 @@ a {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.625rem;
-    order: 1; /* Ensure categories stay above the filter */
+    order: 1; 
   }
 
   .search-bar input {
