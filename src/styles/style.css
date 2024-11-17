@@ -444,16 +444,19 @@ a {
   }
 }
 @media (max-width: 468px) {
-  .product-grid {
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-    gap: 0.625rem;
-    padding: 1rem;
-  }
-
   .category-filter {
     flex-direction: column;
     align-items: flex-start;
-    gap: 0.5rem;
+    gap: 0.625rem;
+    order: 2; /* Ensure category filter is below the categories */
+  }
+
+  .categories {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.625rem;
+    order: 1; /* Ensure categories stay above the filter */
   }
 
   .search-bar input {
@@ -464,26 +467,26 @@ a {
   .sorting {
     flex-direction: column;
     align-items: flex-start;
-    gap: 0.5rem;
+    gap: 0.625rem;
+  }
+
+  /* Adjustments to other layout properties */
+  .product-grid {
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    gap: 0.625rem;
+    padding: 1rem;
   }
 
   .product-item img {
     height: 7rem;
   }
 
-  .product-details img {
-    height: 16rem;
-    width: 100%;
-  }
-
   .product-item h3 {
     font-size: 16px;
-    margin-bottom: 5px;
   }
 
   .product-item .price {
     font-size: 12px;
-    margin-bottom: 10px;
   }
 
   .view-details-btn {
@@ -499,72 +502,5 @@ a {
   .back-button {
     font-size: 14px;
     padding: 8px 16px;
-  }
-
-  .cart-item {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 8px;
-  }
-
-  .cart-item-image {
-    width: 80px;
-    height: 80px;
-    margin-right: 0;
-    margin-bottom: 10px;
-  }
-
-  .cart-item-details {
-    flex-grow: 1;
-  }
-
-  .cart-footer {
-    margin-top: 15px;
-    padding-top: 15px;
-  }
-
-  .cart-footer .total {
-    font-size: 16px;
-    margin-bottom: 10px;
-  }
-
-  .clear-cart-button,
-  .checkout-button {
-    font-size: 14px;
-    padding: 8px 16px;
-  }
-
-  .empty-cart-message {
-    font-size: 16px;
-  }
-
-  .go-shopping-button {
-    font-size: 14px;
-    padding: 8px 16px;
-  }
-
-  .quantity-controls {
-    margin-top: 5px;
-    gap: 8px;
-  }
-
-  .quantity-button {
-    width: 28px;
-    height: 28px;
-    font-size: 16px;
-  }
-
-  .quantity {
-    font-size: 14px;
-  }
-
-  .cart-icon {
-    font-size: 20px;
-  }
-
-  .cart-item-count {
-    width: 16px;
-    height: 16px;
-    font-size: 0.625rem;
   }
 }
